@@ -1,4 +1,4 @@
-# José Emilio Pacheco's Literary Correspondence @ Princeton University
+# José Emilio Pacheco's Literary Correspondence @ Princeton University Library
 
 Pacheco's literary correspondence is deposited in **52 folders distributed in 10 boxes**. The first nine boxes are identified with the prefix 129-  (1291-1299); the last box is identified by the number 1300.
 
