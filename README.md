@@ -12,5 +12,6 @@ is a Python script that reads the Excel workbooks that mirror the internal organ
 
 is another Python script that incorporates the metadata from the Excel workbooks into a relational database hosted in SQLite. After executing a query, the database shows the distribution of letters grouped by name and the number of letters per folder ('count') as well as the distinction between "sender" and "receiver" ('direction') in the .csv file **“Distribution”**.
 
+
 *More data analysis and text mining are pending and will yield a visualization of the most frequently recurring names in the collection.*
 
